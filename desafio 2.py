@@ -1,3 +1,4 @@
+'Este código pergunta o dia, mês e ano e retorna uma mensagem formatada'
 dia = input('Dia=')
 mês = input('Mês=')
 ano = input('Ano=')
